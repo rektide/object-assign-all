@@ -1,3 +1,5 @@
+"use strict"
+
 var
   tape= require( "tape"),
   esm = require( "@std/esm")( module),
